@@ -5,3 +5,5 @@ http://www.byggmek.lth.se/fileadmin/byggnadsmekanik/publications/tvsm5000/web518
 
 
 The enthough Python package has the VTK package and numpy easily available. For explanation of the algorithm see Explanation.eps.
+
+![Algorithm explaned](Explanation.png "Algorithm explaned")
