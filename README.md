@@ -4,6 +4,6 @@ Python code for an attempt to create 3D stress lines. Uses VTK for visualisation
 http://www.byggmek.lth.se/fileadmin/byggnadsmekanik/publications/tvsm5000/web5187.pdf
 
 
-The enthough Python package has the VTK package and numpy easily available. For explanation of the algorithm see Explanation.eps.
+The enthough Python package has the VTK package and numpy easily available. For explanation of the algorithm see below.
 
 ![Algorithm explaned](Explanation.png "Algorithm explaned")
